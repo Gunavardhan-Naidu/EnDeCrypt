@@ -179,3 +179,17 @@ We suggest that you begin by typing:
   npm start
 
 Happy hacking!
+
+----------------------
+BACKEND STRUCTURE
+
+#routes/encryptionRoutes.js:
+-Here, you will define the routes for your encryption and decryption operations.
+
+#controllers/encryptionController.js:
+-Implement the logic for different encryption techniques here.
+
+#models/User.js:
+-Define your user schema for MongoDB using Mongoose.
+
+github token - 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
