@@ -1,13 +1,13 @@
-import logo from './logo.svg';
 import './App.css';
 import React from 'react';
+import Navbar from './components/Navbar';
 import EncryptionForm from './components/EncryptionForm';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        <Navbar />
         <p>
           <h1>EnDecrypt</h1>
         </p>
