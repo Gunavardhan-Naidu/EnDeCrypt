@@ -25,4 +25,6 @@ yarn-error.log*
 # Ignore node_modules in both backend and frontend
 backend/node_modules/
 frontend/node_modules/
-project_plan.txt
+
+# Ignore project plan file
+references/project_plan.txt
