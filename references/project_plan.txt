@@ -192,4 +192,3 @@ BACKEND STRUCTURE
 #models/User.js:
 -Define your user schema for MongoDB using Mongoose.
 
-github token - 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
