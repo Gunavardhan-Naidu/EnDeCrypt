@@ -1,13 +1,13 @@
 import './App.css';
 import React from 'react';
-import Navbar from './components/Navbar';
-import EncryptionForm from './components/EncryptionForm';
+// import Navbar from './components/Navbar';
+// import EncryptionForm from './components/EncryptionForm';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <Navbar />
+        {/* <Navbar /> */}
         <p>
           <h1>EnDecrypt</h1>
         </p>
@@ -19,7 +19,7 @@ function App() {
         >
           App link
         </a>
-        <EncryptionForm />
+        {/* <EncryptionForm /> */}
       </header>
     </div>
   );
